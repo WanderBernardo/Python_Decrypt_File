@@ -61,7 +61,7 @@ Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py 
 
 08 - Salvar o código digitando: ``` Ctrl + o ``` para salvar e ``` Ctrl + x ``` para sair do editor de texto NANO. Para executar digite na tela de comando: ``` python nome do arquivo do codigo criado```, no nosso exemplo: codigo_encrypto.py
 
-## Resultado
+### Resultado
 
 ``` Antes ```
 
@@ -71,7 +71,7 @@ Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py 
 
 ![image](https://github.com/user-attachments/assets/4cc11580-2540-44a8-8677-10d7f6f5eff5)
 
-## Arquivo com o código construindo no anexo: "decryter"
+### Arquivo com o código construindo no anexo: "decryter"
 
 
 
