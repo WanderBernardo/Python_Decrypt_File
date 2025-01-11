@@ -45,19 +45,21 @@ Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py 
 
 04 - Construir o código para abrir o arquivo criptografado
 
+![image](https://github.com/user-attachments/assets/c7e2eec0-09ab-4560-b9e1-be08b6ae2145)
 
 05 - Construir o código para chave de descriptografar
 
-
+![image](https://github.com/user-attachments/assets/5a0daaaf-250c-4841-b292-a6efe3841a9d)
 
 06 - Construir o código para remover o arquivo criptografado
 
-
+![image](https://github.com/user-attachments/assets/ada6d959-8352-4a11-a968-48517b928b73)
 
 07 - Construir o código para criar o arquivo descriptografado
 
+![image](https://github.com/user-attachments/assets/7cfa0037-10ad-41ee-bb45-fd4c543d963d)
 
-
+08 - Salvar o código digitando: ``` Ctrl + o ``` para salvar e ``` Ctrl + x ``` para sair do editor de texto NANO. Para executar digite na tela de comando: ``` python nome do arquivo do codigo criado```, no nosso exemplo: codigo_encrypto.py
 
 ## Resultado
 
@@ -67,9 +69,9 @@ Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py 
 
 ``` Depois ```
 
+![image](https://github.com/user-attachments/assets/4cc11580-2540-44a8-8677-10d7f6f5eff5)
 
-
-## Arquivo com o codigo construindo no anexo: "decryter"
+## Arquivo com o código construindo no anexo: "decryter"
 
 
 
