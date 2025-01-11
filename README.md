@@ -39,6 +39,8 @@ Objetivo é descriptograr um arquivo para o arquivo se tornar legivel novamente.
  
  - pyaes - é o algoritmo que será usado para cryptograr
 
+Antes de iniciar a construir o código criei o arquivo com a instensão ``` .py ``` 
+
 ![image](https://github.com/user-attachments/assets/bd382476-db3f-409f-84e5-c5d626d3fafb)
 
 04 - Construir o código para abrir o arquivo criptografado
